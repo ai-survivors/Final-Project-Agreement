@@ -14,9 +14,9 @@
 ---
 ## Cooperation Plan
 ***The key strengths of each person on the team :***
-- Belal Elolahi : 
+- Belal Elolahi : Framework
 - Issa Salman : Dajngo and next js
-- Mohammad Alwrekat : Fontend
+- Mohammad Alwrekat : Frontend
 - Rawnaq Aburumman :  backend and design
 - Trad Hussein : backend and database 
 
